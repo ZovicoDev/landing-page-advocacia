@@ -66,7 +66,7 @@ Por ser um projeto estático (HTML, CSS e JS puros), não há dependências para
 
 ## 📄 Licença
 
-Este projeto foi desenvolvido para fins educacionais e de portfólio. Sinta-se à vontade para utilizá-lo como referência de estudo.
+Este projeto foi desenvolvido para fins educacionais e de portfólio.
 
 ---
 
