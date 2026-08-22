@@ -71,3 +71,4 @@ Este projeto foi desenvolvido para fins educacionais e de portfólio.
 ---
 
 Desenvolvido por [ZovicoDev](https://github.com/ZovicoDev)
+Orientado por Hudson Neves
